@@ -8,12 +8,14 @@ Here is the link: https://www.figma.com/file/Eu0LK5ielUlhT4LJoXjGm3/derma-demo
 ## The task 🔨
 
 1. Create a simple one-page website.
+
 2. Fork the repo and make a pull request.
  
 We will clone it from Git and review your code, and in our follow-up conversation, you’ll walk us through your choices and thought process. Please use any tech of your choice. 
  
 The design in Figma consist of sections of content, and it is up to you to be creative and develop what you think that is needed for them. But feel free to add JavaScript functionality in any places that you think it would help.
  
+
 ## We will be looking at skills like:
  
 •	Tech stack. Use what you’re most comfortable with (e.g. React, Vite, Tailwind, Vercel etc.)
