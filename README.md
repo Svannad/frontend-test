@@ -1,6 +1,8 @@
 # AKQA Frontend test
  
-We will now kindly ask you to do a small test so that we can get a bit deeper into your skills as a frontend developer. We created a simple design of a webpage and added it to Figma. 
+We will now kindly ask you to do a small test so that we can get a bit deeper into your skills as a frontend developer. 
+
+We have created a simple design of a webpage and added it to Figma. 
  
 Here is the link: https://www.figma.com/file/Eu0LK5ielUlhT4LJoXjGm3/derma-demo 
 
